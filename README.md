@@ -6,19 +6,30 @@
 
 ### Aprender. Criar. Compartilhar.
 
-Um espaço de aprendizagem para transformar ideias em código e projetos em conhecimento.
+**Portfólio profissional e espaço de aprendizagem**
 
-[Explorar projetos](https://github.com/inaiarasenai509?tab=repositories) · [Jogar e aprender](https://inaiarasenai509.github.io/jogo_mat/) · [LinkedIn](https://www.linkedin.com/in/inaiarasantos/)
+Projetos, experiências de ensino e tecnologia aplicada à educação.
+
+[Explorar projetos](https://github.com/inaiarasenai509?tab=repositories) · [Jogar e aprender](https://inaiarasenai509.github.io/jogo_mat/) · [Conheça minha trajetória no LinkedIn](https://www.linkedin.com/in/inaiarasantos/)
 
 </div>
 
 ---
 
-## Olá, estudante! Boas-vindas ao nosso espaço de prática.
+## Sobre mim
 
-Sou **Inaiara Santos**, Instrutor de Formação Profissional na área de **Desenvolvimento de Sistemas do SENAI Zerbini**. Este perfil reúne projetos e exemplos para apoiar o aprendizado de programação, incentivar a criatividade e aproximar a sala de aula da prática profissional.
+Sou **Inaiara Santos**, Instrutor de Formação Profissional na área de **Desenvolvimento de Sistemas do SENAI Zerbini**. Este perfil é meu **portfólio profissional** e também um espaço para compartilhar projetos e exemplos com os alunos. Reúne aplicações práticas de programação para incentivar a criatividade e aproximar a sala de aula da prática profissional.
 
 A proposta é simples: **experimentar, entender como funciona, documentar e compartilhar o que foi construído.**
+
+## Atuação profissional
+
+- **Educação profissional:** ensino de Desenvolvimento de Sistemas no SENAI Zerbini.
+- **Desenvolvimento de projetos:** aplicações web e experiências interativas com finalidade educacional.
+- **Aprendizagem prática:** orientação para criar, testar, documentar e apresentar soluções.
+- **Inteligência artificial:** uso como apoio à programação, com análise crítica e compreensão do código.
+
+**[Acesse meu LinkedIn para conhecer minha trajetória e experiência profissional →](https://www.linkedin.com/in/inaiarasantos/)**
 
 ## Trilhas de aprendizagem
 
@@ -31,7 +42,7 @@ A proposta é simples: **experimentar, entender como funciona, documentar e comp
 | **Git e GitHub** | Versionamento, colaboração, documentação e publicação |
 | **IA na aprendizagem** | Apoio à criação, revisão crítica e explicação das soluções |
 
-## Projeto em destaque
+## Portfólio de projetos
 
 ### 🤖 Arena da Tabuada 3D
 
@@ -70,6 +81,8 @@ Para jogos, inclua o **GDD (Game Design Document)** com proposta, regras, comand
 **Organização, curiosidade e prática fazem parte de cada conquista.**
 
 Inaiara Santos · Ensino de Desenvolvimento de Sistemas  
-Perfil pessoal de uso educacional.
+Portfólio pessoal e espaço de aprendizagem.
+
+[LinkedIn · Inaiara Santos](https://www.linkedin.com/in/inaiarasantos/)
 
 </div>
